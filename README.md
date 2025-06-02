@@ -1,5 +1,5 @@
 ## Hey everyone! 👋 
-My name is Eric Chiu. This is destined to a webpage for my hobby and technical project. If you happen to visit, be sure to check back once a short while! I hope to pick up speed going forward.
+My name is Eric Chiu. This is destined to be a webpage for my hobby and technical project. If you happen to visit, be sure to check back once a short while! I hope to pick up speed going forward.
 ✨ ✨
 
 - 🔭 I’m currently working on a hobby project that's related to my home city
